@@ -1,5 +1,6 @@
 # Penguin-Classifier
 **Files and Descriptions:**
+
 1 .github/workflows/daily_prediction.yml: GitHub Actions workflow file that automates the daily prediction task. It runs the prediction script every day at 7:30 AM CET.
 
 2. Data Cleaning and Feature Engineering/: This folder contains Python scripts related to the cleaning and feature engineering of the penguin dataset.
